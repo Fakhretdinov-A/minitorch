@@ -42,7 +42,6 @@ def index_to_position(index: Index, strides: Strides) -> int:
     Returns:
         Position in storage
     """
-
     # TODO: Implement for Task 2.1.
     raise NotImplementedError('Need to implement for Task 2.1')
 
